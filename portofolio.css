@@ -35,3 +35,36 @@
 
 
 }
+
+.page-de-presentation{
+
+    background-color: lightgrey;
+
+
+}
+
+.my-presentation{
+
+    margin-right: 50%;
+    margin-left: 1em;
+
+}
+
+.box1{
+    margin-left: 20em;
+}
+
+.box2{
+    padding: 2em;
+    margin-left: 55em;
+    
+}
+
+.conteneur{
+    display: grid;
+    grid-template-columns: 200px 200px;
+}
+
+.pdp-Og{
+    border-radius: 22%;
+}
